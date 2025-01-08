@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/julioxido/OrganizacionEquipos/static/css/main.4cdb9e37.css",
+    "main.js": "/julioxido/OrganizacionEquipos/static/js/main.1cd8793d.js",
+    "static/js/151.73af9d21.chunk.js": "/julioxido/OrganizacionEquipos/static/js/151.73af9d21.chunk.js",
+    "index.html": "/julioxido/OrganizacionEquipos/index.html",
+    "main.4cdb9e37.css.map": "/julioxido/OrganizacionEquipos/static/css/main.4cdb9e37.css.map",
+    "main.1cd8793d.js.map": "/julioxido/OrganizacionEquipos/static/js/main.1cd8793d.js.map",
+    "151.73af9d21.chunk.js.map": "/julioxido/OrganizacionEquipos/static/js/151.73af9d21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cdb9e37.css",
+    "static/js/main.1cd8793d.js"
+  ]
+}
